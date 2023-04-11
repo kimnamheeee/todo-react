@@ -37,3 +37,11 @@ button.addButton:hover {
   margin-left: 10px;
   flex-grow: 1;
 }
+
+.statusButton {
+  background-color: greenyellow;
+}
+
+.statusButton.active {
+  background-color: red;
+}
